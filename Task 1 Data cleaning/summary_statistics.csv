@@ -1,0 +1,12 @@
+,show_id,type,title,director,cast,country,date_added,release_year,rating,duration,listed_in,description
+count,8807,8807,8807,8807,8807,8807,8807,8807.0,8807,8807,8807,8807
+unique,8807,2,8807,4529,7693,749,1768,,18,221,514,8775
+top,s1,Movie,Dick Johnson Is Dead,Unknown,Unknown,United States,"January 1, 2020",,TV-MA,1 Season,"Dramas, International Movies","Paranormal activity at a lush, abandoned property alarms a group eager to redevelop the site, but the eerie events may not be as unearthly as they think."
+freq,1,6131,1,2634,825,2818,109,,3207,1793,362,4
+mean,,,,,,,,2014.1801975701146,,,,
+std,,,,,,,,8.819312130833966,,,,
+min,,,,,,,,1925.0,,,,
+25%,,,,,,,,2013.0,,,,
+50%,,,,,,,,2017.0,,,,
+75%,,,,,,,,2019.0,,,,
+max,,,,,,,,2021.0,,,,
